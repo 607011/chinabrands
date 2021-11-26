@@ -4,6 +4,6 @@ Secret scripts chinese manufacturers use to create their brand names, and spamme
 
 brandmaker.ipynb – Jupyter notebook to generate brand names
 
-spamsender.ipynb – Jupyter notebook to generate spammers' name
+spamsender.ipynb – Jupyter notebook to generate spammers' names
 
 品牌制造商.py – Fake chinese version of brandmaker script
