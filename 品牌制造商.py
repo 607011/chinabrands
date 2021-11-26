@@ -44,3 +44,4 @@ for i in range(100):
   允许重复 = random.choice([True, False])
   牌 = 创建随机品牌(音节数, 允许重复)
   print(牌, end=' ')
+print()
